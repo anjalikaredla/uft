@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.1.3.0-UFT_14
+Project("") = "Bit_Map_Checkpoint", "Bit_Map_Checkpoint\Test.tsp", "E6183E84-1CA8-477B-9400-D8E465A01E23"
+	ProjectSection(ProjectMetadata) = HP.UFT.ProjectSystem.Dynamic.ProjectMetadata
+		PathInformation = C:\UFT Training\DemoWebShopHybrid\TestCases\Bit_Map_Checkpoint\Test.tsp
+		Keyword = QTP
+		OpenAsReadOnly = False
+	EndProjectSection
+EndProject
+Project("") = "bit_map_orang", "bit_map_orang\Test.tsp", "395E610E-8629-4C6C-8A04-0CA4B7BF753C"
+	ProjectSection(ProjectMetadata) = HP.UFT.ProjectSystem.Dynamic.ProjectMetadata
+		PathInformation = C:\UFT Training\DemoWebShopHybrid\TestCases\bit_map_orang\Test.tsp
+		Keyword = QTP
+		OpenAsReadOnly = False
+		BaselineId = 
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		E6183E84-1CA8-477B-9400-D8E465A01E23.Debug|Any CPU.Build.0 = Debug|Any CPU
+		E6183E84-1CA8-477B-9400-D8E465A01E23.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		E6183E84-1CA8-477B-9400-D8E465A01E23.Release|Any CPU.Build.0 = Release|Any CPU
+		E6183E84-1CA8-477B-9400-D8E465A01E23.Release|Any CPU.ActiveCfg = Release|Any CPU
+		395E610E-8629-4C6C-8A04-0CA4B7BF753C.Debug|Any CPU.Build.0 = Debug|Any CPU
+		395E610E-8629-4C6C-8A04-0CA4B7BF753C.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		395E610E-8629-4C6C-8A04-0CA4B7BF753C.Release|Any CPU.Build.0 = Release|Any CPU
+		395E610E-8629-4C6C-8A04-0CA4B7BF753C.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal
